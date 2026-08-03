@@ -1,4 +1,4 @@
-# Exercise 2.1 – Enterprise CI/CD Pipeline with GitHub Actions
+# Enterprise CI/CD Pipeline with GitHub Actions
 
 ## Overview
 
@@ -215,4 +215,4 @@ This project demonstrates:
 
 Oluwaferanmi Dada
 
-DevOps Engineering Internship – Exercise 2.1
+DevOps Engineering
